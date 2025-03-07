@@ -4,5 +4,4 @@ chromadb
 langchain
 openai
 pymongo[ssl]
-pymilvus
 python==3.10
