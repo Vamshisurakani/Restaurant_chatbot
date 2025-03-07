@@ -4,4 +4,3 @@ chromadb
 langchain
 openai
 pymongo[ssl]
-python==3.10
