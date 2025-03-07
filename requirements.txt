@@ -1,6 +1,8 @@
 streamlit
-openai
-langchain
 crewai
-pymongo
-python-dotenv
+chromadb
+langchain
+openai
+pymongo[ssl]
+pymilvus
+python==3.10
